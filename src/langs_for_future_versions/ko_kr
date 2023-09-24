@@ -1,0 +1,33 @@
+{
+	"item.nzgmaddon.revolver": "리볼버",
+	"item.nzgmaddon.uzi": "마이크로 SMG",
+	"item.nzgmaddon.submachine_gun": "기관단총",
+	"item.nzgmaddon.hunting_shotgun": "사냥용 산탄총",
+	"item.nzgmaddon.double_barreled_shotgun": "이중 총열 산탄총",
+	"item.nzgmaddon.automatic_shotgun": "자동 산탄총",
+	"item.nzgmaddon.heavy_assault_rifle": "중형 돌격소총",
+	"item.nzgmaddon.battle_rifle": "전투 소총",
+	"item.nzgmaddon.machine_gun": "경기관총",
+	"item.nzgmaddon.infantry_rifle": "제식 소총",
+	"item.nzgmaddon.hunting_rifle": "사냥용 소총",
+	"item.nzgmaddon.sniper_rifle": "저격 소총",
+	
+	"item.nzgmaddon.medium_bullet": "중간탄",
+	
+	"item.nzgmaddon.extended_barrel": "연장 총열",
+	"item.nzgmaddon.flash_hider": "소염기",
+	"item.nzgmaddon.muzzle_brake": "보정기",
+	"item.nzgmaddon.heavy_muzzle_brake": "중형 보정기",
+	
+	"item.nzgmaddon.dot_sight": "도트 사이트",
+	"item.nzgmaddon.ballistic_scope": "저격용 조준경",
+	
+	"item.nzgmaddon.short_stock": "소형 개머리판",
+	"item.nzgmaddon.dyeable_tactical_stock": "전술 개머리판",
+	"item.nzgmaddon.solid_stock": "일체형 개머리판",
+	"item.nzgmaddon.stabilizing_stock": "안정 개머리판",
+	"item.nzgmaddon.carbine_stock": "카빈 개머리판",
+	"item.nzgmaddon.marksman_stock": "저격용 개머리판",
+	
+	"item.nzgmaddon.horizontal_grip": "수직 손잡이"
+}
